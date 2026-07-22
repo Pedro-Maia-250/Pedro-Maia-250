@@ -19,7 +19,7 @@ Atualmente estudando Machine Learning e Inteligência Artificial para expandir m
 
 ---
 
-# 🚀 Sobre mim
+# Sobre mim
 
 - Estudante de Engenharia de Software
 
@@ -31,7 +31,7 @@ Atualmente estudando Machine Learning e Inteligência Artificial para expandir m
 
 ---
 
-# 🛠 Tecnologias
+# Tecnologias
 
 ### Linguagens
 
@@ -71,7 +71,7 @@ Atualmente estudando Machine Learning e Inteligência Artificial para expandir m
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-<img src="https://skillicons.dev/icons?i=h2"/>
+<img src="https://skillicons.dev/icons?i=mssql"/>
 
 </p>
 
@@ -109,22 +109,6 @@ Atualmente estudando Machine Learning e Inteligência Artificial para expandir m
 
 ---
 
-# Estatísticas
-
-<p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Pedro-Maia-250&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Maia-250&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # Contribuições
 
 <p align="center">
@@ -140,16 +124,20 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Maia-250&theme
 
 <p align="center">
 
-<a href="https://github.com/Pedro-Maia-250/TODOD">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Maia-250&repo=TODOD&theme=tokyonight&hide_border=true"/>
+<a href="[https://github.com/Pedro-Maia-250/TODOD](https://github.com/Pedro-Maia-250/lunar-CLI)">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Maia-250&repo=lunar-CLI&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/Pedro-Maia-250/LVGR">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Maia-250&repo=LVGR&theme=tokyonight&hide_border=true"/>
+<a href="[https://github.com/Pedro-Maia-250/LVGR](https://github.com/Pedro-Maia-250/LVGR-Backend)">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Maia-250&repo=LVGR-Backend&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/Pedro-Maia-250/SimpleQrCodeGenerator">
+<a href="[https://github.com/Pedro-Maia-250/SimpleQrCodeGenerator](https://github.com/Pedro-Maia-250/SimpleQrCodeGenerator)">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Maia-250&repo=SimpleQrCodeGenerator&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="[https://github.com/Pedro-Maia-250/imp-jdbc-hibernate-api](https://github.com/Pedro-Maia-250/imp-jdbc-hibernate-api)">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Maia-250&repo=imp-jdbc-hibernate-api&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
