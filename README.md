@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-    <img src="https://LINK_DA_SUA_IMAGEM/banner.png" alt="Banner" width="100%">
+    <img src="./assets/banner.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Olá! 👋 Eu sou Pedro Maia</h1>
@@ -39,6 +39,8 @@ Atualmente estudando Machine Learning e Inteligência Artificial para expandir m
 
 <img src="https://skillicons.dev/icons?i=java"/>
 
+<img src="https://skillicons.dev/icons?i=py"/>
+
 <img src="https://skillicons.dev/icons?i=c"/>
 
 <img src="https://skillicons.dev/icons?i=js"/>
@@ -71,7 +73,7 @@ Atualmente estudando Machine Learning e Inteligência Artificial para expandir m
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-<img src="https://skillicons.dev/icons?i=mssql"/>
+<img src="./assets/icon-ssms.png"/>
 
 </p>
 
@@ -124,20 +126,20 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Maia-250&theme
 
 <p align="center">
 
-<a href="[https://github.com/Pedro-Maia-250/TODOD](https://github.com/Pedro-Maia-250/lunar-CLI)">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Maia-250&repo=lunar-CLI&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Pedro-Maia-250/lunar-CLI">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Maia-250&repo=lunar-CLI&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="[https://github.com/Pedro-Maia-250/LVGR](https://github.com/Pedro-Maia-250/LVGR-Backend)">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Maia-250&repo=LVGR-Backend&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Pedro-Maia-250/LVGR-Backend">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Maia-250&repo=LVGR-Backend&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="[https://github.com/Pedro-Maia-250/SimpleQrCodeGenerator](https://github.com/Pedro-Maia-250/SimpleQrCodeGenerator)">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Maia-250&repo=SimpleQrCodeGenerator&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Pedro-Maia-250/SimpleQrCodeGenerator">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Maia-250&repo=SimpleQrCodeGenerator&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="[https://github.com/Pedro-Maia-250/imp-jdbc-hibernate-api](https://github.com/Pedro-Maia-250/imp-jdbc-hibernate-api)">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Maia-250&repo=imp-jdbc-hibernate-api&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Pedro-Maia-250/imp-jdbc-hibernate-api">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Maia-250&repo=imp-jdbc-hibernate-api&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
@@ -172,7 +174,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Maia-250&theme
 
 <p>
 
-<a href="[LINK_LINKEDIN](https://www.linkedin.com/in/pedro-maia-b095a2324/)">
+<a href="https://www.linkedin.com/in/pedro-maia-b095a2324/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -180,7 +182,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Maia-250&theme
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="[LINK_SITE](https://github.com/Pedro-Maia-250)">
+<a href="https://github.com/Pedro-Maia-250">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
