@@ -73,8 +73,6 @@ Atualmente estudando Machine Learning e Inteligência Artificial para expandir m
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-<img src="./assets/icon-ssms.png"/>
-
 </p>
 
 ---
@@ -127,19 +125,19 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Maia-250&theme
 <p align="center">
 
 <a href="https://github.com/Pedro-Maia-250/lunar-CLI">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Maia-250&repo=lunar-CLI&theme=tokyonight&hide_border=true"/>
+<img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Pedro-Maia-250&repo=lunar-CLI&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Pedro-Maia-250/LVGR-Backend">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Maia-250&repo=LVGR-Backend&theme=tokyonight&hide_border=true"/>
+<img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Pedro-Maia-250&repo=LVGR-Backend&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Pedro-Maia-250/SimpleQrCodeGenerator">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Maia-250&repo=SimpleQrCodeGenerator&theme=tokyonight&hide_border=true"/>
+<img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Pedro-Maia-250&repo=SimpleQrCodeGenerator&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Pedro-Maia-250/imp-jdbc-hibernate-api">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Maia-250&repo=imp-jdbc-hibernate-api&theme=tokyonight&hide_border=true"/>
+<img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Pedro-Maia-250&repo=imp-jdbc-hibernate-api&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
