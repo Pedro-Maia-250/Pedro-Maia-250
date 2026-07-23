@@ -1,12 +1,8 @@
-<!-- ===================================================== -->
-<!--                   Banner (Opcional)                   -->
-<!-- ===================================================== -->
-
 <p align="center">
     <img src="./assets/banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Olá! 👋 Eu sou Pedro Maia</h1>
+<h1 align="center">Olá! Eu sou Pedro Maia</h1>
 
 <h3 align="center">
 Backend Developer • Java • Spring Boot • Software Engineering Student
@@ -14,7 +10,7 @@ Backend Developer • Java • Spring Boot • Software Engineering Student
 
 <p align="center">
 Apaixonado por desenvolvimento backend, arquitetura de software e construção de APIs robustas.
-Atualmente estudando Machine Learning e Inteligência Artificial para expandir minhas habilidades além do desenvolvimento tradicional.
+Atualmente estudando Machine Learning e Inteligência Artificial.
 </p>
 
 ---
@@ -43,6 +39,8 @@ Atualmente estudando Machine Learning e Inteligência Artificial para expandir m
 
 <img src="https://skillicons.dev/icons?i=c"/>
 
+<img src="https://skillicons.dev/icons?i=dart"/>
+
 <img src="https://skillicons.dev/icons?i=js"/>
 
 <img src="https://skillicons.dev/icons?i=html"/>
@@ -63,15 +61,11 @@ Atualmente estudando Machine Learning e Inteligência Artificial para expandir m
 
 <img src="https://skillicons.dev/icons?i=maven"/>
 
-</p>
-
----
-
-### Banco de Dados
-
-<p>
-
 <img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://skillicons.dev/icons?i=flutter"/>
 
 </p>
 
@@ -104,6 +98,8 @@ Atualmente estudando Machine Learning e Inteligência Artificial para expandir m
 <img src="https://skillicons.dev/icons?i=figma"/>
 
 <img src="https://skillicons.dev/icons?i=blender"/>
+
+<img src="https://skillicons.dev/icons?i=robloxstudio"/>
 
 </p>
 
@@ -154,6 +150,8 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Maia-250&theme
 
 - Spring Security
 
+- Flutter
+
 ---
 
 # Objetivos
@@ -190,17 +188,27 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Maia-250&theme
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Pedro-Maia-250&color=blue&style=flat-square">
-
-</p>
-
-<p align="center">
-
 <i>"A qualidade deve ser incorporada desde o início; ela não pode ser acrescentada depois."</i>
 
 <br>
 
 — Roger S. Pressman
+
+</p>
+
+<p align="center">
+
+<i>"Corra de tudo que tenha um elefante na logo"</i>
+
+<br>
+
+— Desconhecido
+
+</p>
+
+<p align="right">
+
+<img src="https://komarev.com/ghpvc/?username=Pedro-Maia-250&color=blue&style=flat-square">
 
 </p>
 
