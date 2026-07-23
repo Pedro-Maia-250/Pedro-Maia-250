@@ -5,7 +5,7 @@
 <h1 align="center">Olá! Eu sou Pedro Maia</h1>
 
 <h3 align="center">
-Backend Developer • Java • Spring Boot • Software Engineering Student
+Backend Developer • Software Engineering Student
 </h3>
 
 <p align="center">
