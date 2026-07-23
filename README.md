@@ -13,6 +13,9 @@ Apaixonado por desenvolvimento backend, arquitetura de software e construção d
 Atualmente estudando Machine Learning e Inteligência Artificial.
 </p>
 
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=Pedro-Maia-250&color=blue&style=flat-square">
+</p>
 ---
 
 # Sobre mim
@@ -186,29 +189,9 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Maia-250&theme
 
 ---
 
-<p align="center">
+> *"A qualidade deve ser incorporada desde o início; ela não pode ser acrescentada depois."*  
+> **— Roger S. Pressman**
 
-<i>"A qualidade deve ser incorporada desde o início; ela não pode ser acrescentada depois."</i>
-
-<br>
-
-— Roger S. Pressman
-
-</p>
-
-<p align="center">
-
-<i>"Corra de tudo que tenha um elefante na logo"</i>
-
-<br>
-
-— Desconhecido
-
-</p>
-
-<p align="right">
-
-<img src="https://komarev.com/ghpvc/?username=Pedro-Maia-250&color=blue&style=flat-square">
-
-</p>
+> *"Corra de tudo que tenha um elefante na logo."*  
+> **— Desconhecido**
 
