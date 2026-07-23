@@ -16,6 +16,7 @@ Atualmente estudando Machine Learning e Inteligência Artificial.
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=Pedro-Maia-250&color=blue&style=flat-square">
 </p>
+
 ---
 
 # Sobre mim
